@@ -2,6 +2,7 @@
 
 Cpp Primer的笔记
 
+reference: https://github.com/Mooophy/Cpp-Primer
 Chenshuo的Cpp Primer评注版本的给的几个练习
 
 1. 写一个复数类或者大整数类，实现基本的加减乘运算，熟悉封装与数据抽象。
