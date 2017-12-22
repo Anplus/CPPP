@@ -2,6 +2,13 @@
 
 Cpp Primer的笔记
 
+C++编程思想的两个例子，Stack，Stash。
+
+- 访问控制Stash，Stack
+- 带有构造器和析构函数的Stack，Stash
+ 
+
+
 reference: https://github.com/Mooophy/Cpp-Primer
 Chenshuo的Cpp Primer评注版本的给的几个练习
 
